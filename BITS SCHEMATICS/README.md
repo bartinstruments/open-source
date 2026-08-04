@@ -1,6 +1,6 @@
 # b:art instruments - Open-Source b:its Schematics
 
-Free, open-source KiCad schematics for the **b:bits** series of Eurorack utility modules by [b:art instruments](https://bartinstruments.com/). These are released to give back to the DIY / modular synth community — build them, learn from them, remix them.
+Free, open-source KiCad schematics for the **b:its** series of Eurorack utility modules by [b:art instruments](https://bartinstruments.com/). These are released to give back to the DIY / modular synth community — build them, learn from them, remix them.
 
 ## License
 
