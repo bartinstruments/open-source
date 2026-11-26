@@ -69,7 +69,7 @@ This repository contains no firmware. Firmware updates and settings are handled 
 
 ## Configuration (web configurator)
 
-Connect the module over USB-C and open the [configurator] (https://flash.bartinstruments.com/) in your browser. Current settings include:
+Connect the module over USB-C and open the [configurator](https://flash.bartinstruments.com/) in your browser. Current settings include:
 
 - **Max delay time:** trade precision for range on the TIME knobs.
 - **Triplets / Dotted notes:** clocked delay behavior.
